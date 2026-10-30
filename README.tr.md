@@ -2,11 +2,11 @@
 
 # SocialPilot
 
-**Planla. Oluştur. Yayımla. Öğren.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="SocialPilot — Social publishing; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="SocialPilot — ürün görsel sunumu" />
+
+**Planla. Oluştur. Yayımla. Öğren.**
 
 [![Website](https://img.shields.io/badge/socialpilot.mk-Official_Website-1476e8?style=for-the-badge)](https://socialpilot.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://socialpilot.mk/)
@@ -69,7 +69,7 @@ Görsel kavramsaldır, uygulama ekran görüntüsü değildir. Güncel arayüz, 
 | Ayrıntı | Değer |
 |---|---|
 | Alan adı | [socialpilot.mk](https://socialpilot.mk/) |
-| Kategori | Social publishing |
+| Kategori | Sosyal medya planlama ve yayın |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Kaynak: [Resmî web sitesi](https://socialpilot.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
